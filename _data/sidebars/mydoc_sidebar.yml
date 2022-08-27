@@ -34,12 +34,16 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: 6.0 Release notes
-      url: /mydoc_release_notes_60.html
+    - title: 环境准备
+      url: /sector1_preparing.html
       output: web, pdf
 
-    - title: 5.0 Release notes
-      url: /mydoc_release_notes_50.html
+    - title: 课程讲义
+      url: /sector1_note.html
+      output: web, pdf
+
+    - title: 实验-曼德博集合
+      url: /lab0_mandelbrot.html
       output: web, pdf
 
   - title: 扇区2-存放世界的一切
