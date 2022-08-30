@@ -46,7 +46,7 @@ entries:
     output: web, pdf
 
     folderitems:
-    - title: Pages
+    - title: 课程讲义
       url: /mydoc_pages.html
       output: web, pdf
 
@@ -54,83 +54,26 @@ entries:
       url: /lab0_mandelbrot.html
       output: web, pdf
 
-#   - title: 扇区3-四两拨千斤的魔法
-#     output: web, pdf
+  - title: 扇区3-四两拨千斤的魔法
+    output: web, pdf
 
-#     folderitems:
-#     - title: Sidebar navigation
-#       url: /mydoc_sidebar_navigation.html
-#       output: web, pdf
+    folderitems:
+    - title: 课程讲义
+      url: /mydoc_sidebar_navigation.html
+      output: web, pdf
 
-#     - title: YAML tutorial in the context of Jekyll
-#       url: /mydoc_yaml_tutorial.html
-#       output: web, pdf
+  - title: 扇区4-状态机的轮回
+    output: web, pdf
 
-#     - title: Tags
-#       url: /mydoc_tags.html
-#       output: web, pdf
+    folderitems:
+    - title: 课程讲义
+      url: /mydoc_adding_tooltips.html
+      output: web, pdf
 
-#     - title: Series
-#       url: /mydoc_series.html
-#       output: web, pdf
+    - title: 实验-游戏修改器
+      url: /lab1_hacking.html
+      output: web, pdf
 
-#   - title: 扇区4-状态机的轮回
-#     output: web, pdf
-
-#     folderitems:
-#     - title: Tooltips
-#       url: /mydoc_adding_tooltips.html
-#       output: web, pdf
-
-#     - title: Alerts
-#       url: /mydoc_alerts.html
-#       output: web, pdf
-
-#     - title: Icons
-#       url: /mydoc_icons.html
-#       output: web, pdf
-
-#     - title: Images
-#       url: /mydoc_images.html
-#       output: web, pdf
-
-#     - title: Code samples
-#       url: /mydoc_code_samples.html
-#       output: web, pdf
-
-#     - title: Labels
-#       url: /mydoc_labels.html
-#       output: web, pdf
-
-#     - title: Links
-#       url: /mydoc_hyperlinks.html
-#       output: web, pdf
-#     output: web, pdf
-
-#     folderitems:
-#     - title: Commenting on files
-#       url: /mydoc_commenting_on_files.html
-#       output: web, pdf
-
-
-#     - title: Navtabs
-#       url: /mydoc_navtabs.html
-#       output: web, pdf
-
-#     - title: Tables
-#       url: /mydoc_tables.html
-#       output: web, pdf
-
-#     - title: Syntax highlighting
-#       url: /mydoc_syntax_highlighting.html
-#       output: web, pdf
-
-#     - title: Workflow maps
-#       url: /mydoc_workflow_maps.html
-#       output: web, pdf
-# #    - title: Git collaboration
-# #      url: /mydoc_git_collaboration
-# #      output: web, pdf
 
 #   - title: 扇区5-世界的支配者
 #     output: web, pdf

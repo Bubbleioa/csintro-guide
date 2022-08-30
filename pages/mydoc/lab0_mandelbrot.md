@@ -5,6 +5,8 @@ permalink: lab0_mandelbrot.html
 usemathjax: true
 ---
 
+> 受 [NJU-OS](http://jyywiki.cn/OS/2022/) 启发
+
 <iframe src="//player.bilibili.com/player.html?aid=50797775&bvid=BV1N441187Dh&cid=88938038&page=1"  scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%"> </iframe>
 
 ## 复数与复平面
