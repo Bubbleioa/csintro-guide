@@ -5,7 +5,7 @@ permalink: lab1_hacking.html
 usemathjax: true
 ---
 
-<link href="../css/chessboard.css" rel="stylesheet">
+<link href="/css/chessboard.css" rel="stylesheet">
 
 > 受 [NJU-OS](http://jyywiki.cn/OS/2022/) 启发
 
@@ -20,9 +20,9 @@ usemathjax: true
 [source](https://github.com/moroshko/chessboard)
 <div id="board"></div>
 
-<script src="../js/chess.js"></script>
-<script src="../js/chessboard.js"></script>
-<script src="../js/app.js"></script>
+<script src="/js/chess.js"></script>
+<script src="/js/chessboard.js"></script>
+<script src="/js/app.js"></script>
 
 先来挑战下国际象棋！
 
