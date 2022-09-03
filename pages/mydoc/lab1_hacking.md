@@ -85,11 +85,25 @@ void write_mem(uint64_t ch_addr, unsigned char *ch, int length);
 // ch 为要写入的数据，注意我们的环境是小端机
 ```
 
-还有一个初始化环境，需要在扫描之前调用：
+还有一个初始化环境，需要在扫描之前调用，返回值为内存的字节数。
 
 ```c
 int init(char *process_name);
-// 传入要 hacking 的进程名
+// 传入要 hack 的进程名，返回内存总共有多少个字节。
 ```
+
+# 实验对象
+
+在 [itch.io](https://itch.io/games/top-rated/free/platform-linux) 上，你能找到若干个适用于 Linux 平台的免费游戏，都提供了下载链接。
+
+当然你也可以在 Linux 上安装 steam，来游玩你帐号中的游戏。
+
+这里测试了 [helltaker](https://vanripper.itch.io/helltaker) 
+
+虽然在修改之后游戏 UI 的数值并没有发生改变，但是背后的实际步数已经改变。
+
+## 无 GUI 环境
+
+如果你使用的是 Gitpod 或者是 WSL（虽然 WSL 有办法实现 GUI），可以自己编写一个 C 程序，然后尝试在它运行的时候修改其中的变量。 
 
 祝你成功戒掉游戏！
