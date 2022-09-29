@@ -101,7 +101,7 @@ int x[W][H];
 > - git
 
 ```shell
-git clone xxx
+git clone https://github.com/Bubbleioa/csintro-workbench.git
 ```
 
 找到 `mb.c`，那将是你需要完成的程序。
